@@ -1,3 +1,8 @@
+> **Fork notice** — Pinned fork of [xpple/cubiomes](https://github.com/xpple/cubiomes),
+> used as a vendored dependency by `seedmap-engine`. We track upstream and do
+> not develop here. Any changes we need belong in `seedmap-engine`, not in this
+> repository. Upstream is MIT-licensed, © Cubitect.
+
 # cubiomes
 
 Cubiomes is a standalone library, written in C, that mimics the biome and feature generation of Minecraft Java Edition.
